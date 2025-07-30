@@ -14,7 +14,8 @@
 ### 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jeffin--john--thomas-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jeffin-john-thomas-2b600626a)
-[![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram](https://www.instagram.com/jeffinnn))
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/jeffinnn.?igsh=eGg1YnNnd3ZoYzBo)
 
 
 ---
